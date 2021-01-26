@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  background-color: #DDE1FB;
+  background-image: url(assets/gear-small.svg), url(assets/gear-big.svg);
+  background-position: left 0px, right 0px;
+  background-repeat: no-repeat;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+
+.title {
+  font-size: 63px;
+  font-weight: 800;
+  color: #5957C0;
+}
+
+#listContainer {
+  background-color: #F8F9FF;
+}
+
+.item.header {
+  background-color: #E3E7FF;
+  color: #B5BDFF;
+  border: none;
+  height: 120px;
+  align-items: center;
+  padding-bottom: 0;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  height: 97px;
+  padding-left: 70px;
+  padding-bottom: 23px;
+  font-size: 40px;
+  font-weight: 500;
+  border-bottom: 3px solid #D5D7FA;
+  color: #434387;
+}
+
+.addItemImg {
+  padding-right: 15px;
+}
+
+.stormy-sparky {
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+}
