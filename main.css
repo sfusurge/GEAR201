@@ -1,10 +1,10 @@
 body {
   margin: 0;
-  background-color: #DDE1FB;
+  background-color: #dde1fb;
   background-image: url(assets/gear-small.svg), url(assets/gear-big.svg);
   background-position: left 0px, right 0px;
   background-repeat: no-repeat;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -21,33 +21,31 @@ body {
 .title {
   font-size: 63px;
   font-weight: 800;
-  color: #5957C0;
+  color: #5957c0;
 }
 
 #listContainer {
-  background-color: #F8F9FF;
+  background-color: #f8f9ff;
 }
 
 .item.header {
-  background-color: #E3E7FF;
-  color: #B5BDFF;
+  background-color: #e3e7ff;
+  color: #b5bdff;
   border: none;
   height: 120px;
   align-items: center;
-  padding-bottom: 0;
+  padding: 0 0 0 70px;
 }
 
 .item {
   display: flex;
   justify-content: space-between;
-  align-items: flex-end;
-  height: 97px;
-  padding-left: 70px;
-  padding-bottom: 23px;
+  padding: 44px 200px 23px 70px;
   font-size: 40px;
   font-weight: 500;
-  border-bottom: 3px solid #D5D7FA;
+  border-bottom: 3px solid #d5d7fa;
   color: #434387;
+  text-align: left;
 }
 
 .addItemImg {
@@ -56,6 +54,6 @@ body {
 
 .stormy-sparky {
   position: fixed;
-  bottom: 50px;
-  right: 50px;
+  bottom: 20px;
+  right: 20px;
 }
