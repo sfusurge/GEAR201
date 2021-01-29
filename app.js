@@ -9,7 +9,13 @@ const grocery_list = [
   "Bananas",
   "Oranges",
   "Brownies",
-  "Cupcakes"
+  "Cupcakes",
+  "Kimchi",
+  "Rice",
+  "Tortillas",
+  "Avocados",
+  "Oaxaca Cheese",
+  "Funfetti Cake"
 ];
 
 grocery_list.forEach((item) => {
