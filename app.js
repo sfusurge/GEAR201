@@ -8,6 +8,11 @@ const grocery_list = [
   "Cinnamon Buns",
   "Bananas",
   "Oranges",
+  "Kimchi",
+  "Rice",
+  "Tortillas",
+  "Avocados",
+  "Oaxaca Cheese",
   "Funfetti Cake"
 ];
 
