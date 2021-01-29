@@ -12,7 +12,8 @@ const grocery_list = [
   "Rice",
   "Tortillas",
   "Avocados",
-  "Oaxaca Cheese"
+  "Oaxaca Cheese",
+  "Funfetti Cake"
 ];
 
 grocery_list.forEach((item) => {
