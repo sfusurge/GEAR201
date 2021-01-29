@@ -1,13 +1,23 @@
 const grocery_list = [
   "Broccoli",
-  "Choclate Chip Cookies",
+  "Chocolate Chip Cookies",
   "Cheddar Cheese",
   "Apples",
   "Butter",
   "Pizza Pockets",
   "Cinnamon Buns",
   "Bananas",
-  "Oranges"
+  "Oranges",
+  "Brownies",
+  "Cupcakes",
+  "Kimchi",
+  "Rice",
+  "Tortillas",
+  "Avocados",
+  "Oaxaca Cheese",
+  "Funfetti Cake",
+  "Orange juice",
+  "Coffee",
 ];
 
 grocery_list.forEach((item) => {
