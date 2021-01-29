@@ -18,6 +18,7 @@ const grocery_list = [
   "Funfetti Cake",
   "Orange juice",
   "Coffee",
+  "Bacon",
 ];
 
 grocery_list.forEach((item) => {
