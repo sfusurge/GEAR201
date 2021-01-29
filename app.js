@@ -1,6 +1,6 @@
 const grocery_list = [
   "Broccoli",
-  "Choclate Chip Cookies",
+  "Chocolate Chip Cookies",
   "Cheddar Cheese",
   "Apples",
   "Butter",
@@ -8,6 +8,8 @@ const grocery_list = [
   "Cinnamon Buns",
   "Bananas",
   "Oranges",
+  "Brownies",
+  "Cupcakes",
   "Kimchi",
   "Rice",
   "Tortillas",
