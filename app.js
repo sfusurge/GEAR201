@@ -7,7 +7,8 @@ const grocery_list = [
   "Pizza Pockets",
   "Cinnamon Buns",
   "Bananas",
-  "Oranges"
+  "Oranges",
+  "Bacon"
 ];
 
 grocery_list.forEach((item) => {
