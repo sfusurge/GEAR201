@@ -20,7 +20,10 @@ const grocery_list = [
   "Coffee",
   "Bacon",
   "Chicken",
-  "Celery"
+  "Celery",
+  "Sushi",
+  "Tomatoes",
+  "Bread"
 ];
 
 grocery_list.forEach((item) => {
