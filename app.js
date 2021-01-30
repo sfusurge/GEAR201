@@ -17,9 +17,18 @@ const grocery_list = [
   "Oaxaca Cheese",
   "Funfetti Cake",
   "Orange juice",
+  "Eggs",
   "Coffee",
   "Bacon",
-  "Tofu"
+  "Tofu",
+  "Alien Food",
+  "Cool Beans",
+  "Chicken Breast",
+  "Chicken",
+  "Celery",
+  "Sushi",
+  "Tomatoes",
+  "Bread"
 ];
 
 grocery_list.forEach((item) => {
