@@ -19,6 +19,8 @@ const grocery_list = [
   "Orange juice",
   "Coffee",
   "Bacon",
+  "Alien Food",
+  "Cool Beans",
   "Chicken Breast",
   "Egg",
   "Chicken",
