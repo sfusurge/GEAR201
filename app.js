@@ -19,7 +19,8 @@ const grocery_list = [
   "Orange juice",
   "Coffee",
   "Bacon",
-  "Bread",
+  "Tomatoes",
+  "Bread"
 ];
 
 grocery_list.forEach((item) => {
