@@ -17,6 +17,7 @@ const grocery_list = [
   "Oaxaca Cheese",
   "Funfetti Cake",
   "Orange juice",
+  "Eggs",
   "Coffee",
   "Bacon",
 ];
