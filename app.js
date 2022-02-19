@@ -29,6 +29,7 @@ const grocery_list = [
   "Sushi",
   "Tomatoes",
   "Bread"
+  "Ice Cream"
 ];
 
 grocery_list.forEach((item) => {
